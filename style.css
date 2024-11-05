@@ -1,0 +1,90 @@
+.importante {
+    font-weight: bold;
+    color: red;
+}
+
+body{
+    background-color: rgba(26, 110, 236, 0.459);
+    font-size: 25px;
+    
+}
+
+header{
+    text-align: center;
+}
+
+main {
+    padding: 10px 20px;
+}
+
+hr {
+    border: 1px solid rgb(14, 33, 196);
+}
+
+.div3 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.div3 div {
+    width: 30%;
+}
+
+.div3 div img{
+    width: 100%;
+}
+
+
+h2 {
+    color: rgb(4, 22, 39);
+}
+
+section {
+    text-align: center;
+}
+
+nav a{
+    font-size: 24px;
+    font-family: 'Cooper';
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    margin-right: 24px;
+    text-align: center;
+   
+    
+}
+a:hover{
+    background-color: rgb(13, 12, 94);
+    padding: 8px;
+    border-radius: 8px;
+    transition: 3s;
+    font-size: 30px;
+   
+}
+
+.titulo{
+   color: dodgerblue;
+   font-family: 'Courier New';
+  font-style: italic;
+  text-align: center;
+  background-color: rgb(76, 5, 170);
+  border-radius: 16px;
+    
+}
+
+p{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman';
+}
+
+img {
+    border-radius: 10px;
+}
+
+section{
+    background-color: rgba(11, 59, 130, 0.459);
+    border-radius: 16px;
+    text-align: center;
+   
+
+}
